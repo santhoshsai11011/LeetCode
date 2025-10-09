@@ -13,7 +13,7 @@ class Solution {
                 break;
             }
         }
-        if(j==-1 || j== n-1) return;
+        if(j==-1 || j == n-1) return;
 
         for(int i=j+1;i<n;i++){
             if(nums[i] != 0){
