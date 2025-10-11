@@ -43,5 +43,6 @@
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/santhoshsai11011/LeetCode/tree/master/0182-duplicate-emails) |
 | [1390-average-selling-price](https://github.com/santhoshsai11011/LeetCode/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
