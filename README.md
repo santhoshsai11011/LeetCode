@@ -40,4 +40,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0268-missing-number) |
+## Database
+|  |
+| ------- |
+| [1390-average-selling-price](https://github.com/santhoshsai11011/LeetCode/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
