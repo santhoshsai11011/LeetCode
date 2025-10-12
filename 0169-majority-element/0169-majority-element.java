@@ -8,7 +8,7 @@ class Solution {
             if(nums[i] == el) count++;
             else count--;
         }
-        count++;
+        count = 0;
         for(int i=0;i<n;i++){
             if(nums[i] == el) count++;
         }
