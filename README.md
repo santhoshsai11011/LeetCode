@@ -57,6 +57,7 @@
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/santhoshsai11011/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/santhoshsai11011/LeetCode/tree/master/0182-duplicate-emails) |
+| [0627-swap-salary](https://github.com/santhoshsai11011/LeetCode/tree/master/0627-swap-salary) |
 | [1390-average-selling-price](https://github.com/santhoshsai11011/LeetCode/tree/master/1390-average-selling-price) |
 ## Divide and Conquer
 |  |
