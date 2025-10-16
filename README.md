@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/santhoshsai11011/LeetCode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
