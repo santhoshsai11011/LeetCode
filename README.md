@@ -31,6 +31,7 @@
 | [0007-reverse-integer](https://github.com/santhoshsai11011/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/santhoshsai11011/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0507-perfect-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/santhoshsai11011/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -88,9 +89,11 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/santhoshsai11011/LeetCode/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/santhoshsai11011/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/santhoshsai11011/LeetCode/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/santhoshsai11011/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
