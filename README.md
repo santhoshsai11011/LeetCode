@@ -64,6 +64,7 @@
 | [0627-swap-salary](https://github.com/santhoshsai11011/LeetCode/tree/master/0627-swap-salary) |
 | [1174-sales-analysis-iii](https://github.com/santhoshsai11011/LeetCode/tree/master/1174-sales-analysis-iii) |
 | [1390-average-selling-price](https://github.com/santhoshsai11011/LeetCode/tree/master/1390-average-selling-price) |
+| [1837-daily-leads-and-partners](https://github.com/santhoshsai11011/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [2024-calculate-special-bonus](https://github.com/santhoshsai11011/LeetCode/tree/master/2024-calculate-special-bonus) |
 | [2110-employees-with-missing-information](https://github.com/santhoshsai11011/LeetCode/tree/master/2110-employees-with-missing-information) |
 ## Divide and Conquer
