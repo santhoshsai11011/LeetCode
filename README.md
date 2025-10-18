@@ -41,6 +41,7 @@
 | [2608-count-the-digits-that-divide-a-number](https://github.com/santhoshsai11011/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [3371-harshad-number](https://github.com/santhoshsai11011/LeetCode/tree/master/3371-harshad-number) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/santhoshsai11011/LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0258-add-digits](https://github.com/santhoshsai11011/LeetCode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/santhoshsai11011/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/santhoshsai11011/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/santhoshsai11011/LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
