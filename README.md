@@ -63,6 +63,7 @@
 | [0610-triangle-judgement](https://github.com/santhoshsai11011/LeetCode/tree/master/0610-triangle-judgement) |
 | [0627-swap-salary](https://github.com/santhoshsai11011/LeetCode/tree/master/0627-swap-salary) |
 | [1390-average-selling-price](https://github.com/santhoshsai11011/LeetCode/tree/master/1390-average-selling-price) |
+| [2024-calculate-special-bonus](https://github.com/santhoshsai11011/LeetCode/tree/master/2024-calculate-special-bonus) |
 ## Divide and Conquer
 |  |
 | ------- |
