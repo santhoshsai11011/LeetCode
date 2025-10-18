@@ -34,6 +34,7 @@
 | [0268-missing-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0507-perfect-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/santhoshsai11011/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3371-harshad-number](https://github.com/santhoshsai11011/LeetCode/tree/master/3371-harshad-number) |
 ## Hash Table
 |  |
 | ------- |
