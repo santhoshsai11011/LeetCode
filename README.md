@@ -72,6 +72,7 @@
 | [0610-triangle-judgement](https://github.com/santhoshsai11011/LeetCode/tree/master/0610-triangle-judgement) |
 | [0627-swap-salary](https://github.com/santhoshsai11011/LeetCode/tree/master/0627-swap-salary) |
 | [1174-sales-analysis-iii](https://github.com/santhoshsai11011/LeetCode/tree/master/1174-sales-analysis-iii) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/santhoshsai11011/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1390-average-selling-price](https://github.com/santhoshsai11011/LeetCode/tree/master/1390-average-selling-price) |
 | [1837-daily-leads-and-partners](https://github.com/santhoshsai11011/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [2024-calculate-special-bonus](https://github.com/santhoshsai11011/LeetCode/tree/master/2024-calculate-special-bonus) |
