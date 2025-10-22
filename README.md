@@ -80,6 +80,7 @@
 | [1837-daily-leads-and-partners](https://github.com/santhoshsai11011/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [2024-calculate-special-bonus](https://github.com/santhoshsai11011/LeetCode/tree/master/2024-calculate-special-bonus) |
 | [2110-employees-with-missing-information](https://github.com/santhoshsai11011/LeetCode/tree/master/2110-employees-with-missing-information) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/santhoshsai11011/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Divide and Conquer
 |  |
 | ------- |
