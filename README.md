@@ -79,6 +79,7 @@
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/santhoshsai11011/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1390-average-selling-price](https://github.com/santhoshsai11011/LeetCode/tree/master/1390-average-selling-price) |
 | [1837-daily-leads-and-partners](https://github.com/santhoshsai11011/LeetCode/tree/master/1837-daily-leads-and-partners) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/santhoshsai11011/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/santhoshsai11011/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2024-calculate-special-bonus](https://github.com/santhoshsai11011/LeetCode/tree/master/2024-calculate-special-bonus) |
 | [2110-employees-with-missing-information](https://github.com/santhoshsai11011/LeetCode/tree/master/2110-employees-with-missing-information) |
