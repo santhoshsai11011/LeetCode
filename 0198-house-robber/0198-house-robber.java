@@ -9,11 +9,11 @@ class Solution {
         return dp[n];
     }
     public int rob(int[] nums) {
-        int n = nums.length-1;
-        if(n<0) return 0;
-        int [] dp = new int[n+1];
+        int n = nums.length;
+        if(n<=0) return 0;
+        int [] dp = new int[n];
         Arrays.fill(dp,-1);
-        int ans = f(n,nums,dp);
+        int ans = f(n-1,nums,dp);
         return ans;
     }
 }
