@@ -1,0 +1,19 @@
+class Solution {
+    static int f(int n,int [] nums,int [] dp){
+        if(n==0) return nums[0];
+        if(n<0) return 0;
+        if(dp[n] != -1) return dp[n];
+        int pick = nums[n] + f(n-2,nums,dp);
+        int notPick = f(n-1,nums,dp);
+        dp[n] =  Math.max(pick,notPick);
+        return dp[n];
+    }
+    public int rob(int[] nums) {
+        int n = nums.length-1;
+        if(n<0) return 0;
+        int [] dp = new int[n+1];
+        Arrays.fill(dp,-1);
+        int ans = f(n,nums,dp);
+        return ans;
+    }
+}
