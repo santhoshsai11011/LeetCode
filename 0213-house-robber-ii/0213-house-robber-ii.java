@@ -15,7 +15,7 @@ class Solution {
         int prev = nums1[0];
         int prev2 = 0;
         for(int i=1;i<n-1;i++){
-            int pick = nums[i] + prev2;
+            int pick = nums1[i] + prev2;
             int notPick = prev;
             int current = Math.max(pick,notPick);
             prev2 = prev;
