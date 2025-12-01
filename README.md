@@ -37,6 +37,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/santhoshsai11011/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/santhoshsai11011/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/santhoshsai11011/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/santhoshsai11011/LeetCode/tree/master/0258-add-digits) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/santhoshsai11011/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/santhoshsai11011/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/santhoshsai11011/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santhoshsai11011/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/santhoshsai11011/LeetCode/tree/master/0198-house-robber) |
@@ -162,4 +164,8 @@
 | [0070-climbing-stairs](https://github.com/santhoshsai11011/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/santhoshsai11011/LeetCode/tree/master/1013-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/santhoshsai11011/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
