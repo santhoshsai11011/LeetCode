@@ -15,19 +15,15 @@
  */
 class Solution {
     int maxi = 0;
-    static int diameter(TreeNode node){
+    int height(TreeNode node){
         if(node == null) return 0;
-        int lh = diameter(node.left);
-        int rh = diameter(node.right);
+        int lh = height(node.left);
+        int rh = height(node.right);
+        maxi = Math.max(lh+rh,maxi);
         return 1+Math.max(lh,rh);
     }
     public int diameterOfBinaryTree(TreeNode root) {
-        if(root == null) return 0;
-        int lh = diameter(root.left);
-        int rh = diameter(root.right);
-        maxi = Math.max(maxi,rh+lh);
-        int left = diameterOfBinaryTree(root.left);
-        int right = diameterOfBinaryTree(root.right);
+        height(root);
         return maxi;
     }
 }
