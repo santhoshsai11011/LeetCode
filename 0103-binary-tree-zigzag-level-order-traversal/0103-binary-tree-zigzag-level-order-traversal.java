@@ -19,7 +19,7 @@ class Solution {
         Queue<TreeNode> q = new LinkedList<>();
         if(root == null) return ans;
         q.add(root);
-        boolean flag = true;
+        boolean flag = false;
         while(q.size() != 0){
             int size = q.size();
             List<Integer> arr = new ArrayList<>();
@@ -30,7 +30,7 @@ class Solution {
                 if(node.right != null) q.add(node.right);
                 arr.add(node.val);
             }
-            if(!flag) Collections.reverse(arr);
+            if(flag) Collections.reverse(arr);
             ans.add(arr);
             flag = !flag;
         }
