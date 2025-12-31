@@ -16,15 +16,11 @@
 class Solution {
     static boolean check(TreeNode a,TreeNode b){
         if(a == null || b == null){
-            if(a==b) return true;
-            return false;
+            return (a==b);
         }
-        if(a.val != b.val) return false;
-        if(a.val == b.val){
-            if(check(a.left,b.left) == false) return false;
-            if(check(a.right,b.right) == false) return false;
-        }
-        return true;
+        return (a.val == b.val) &&
+            check(a.left,b.left) &&
+            check(a.right,b.right);
     }
     public boolean isSameTree(TreeNode p, TreeNode q) {
         return check(p,q);
