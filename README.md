@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/santhoshsai11011/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/santhoshsai11011/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/santhoshsai11011/LeetCode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/santhoshsai11011/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santhoshsai11011/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -44,6 +45,7 @@
 | [0007-reverse-integer](https://github.com/santhoshsai11011/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/santhoshsai11011/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/santhoshsai11011/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/santhoshsai11011/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/santhoshsai11011/LeetCode/tree/master/0258-add-digits) |
