@@ -19,11 +19,11 @@ public class Solution {
             if(slow==fast) break;
         }
         if(fast == null ||  fast.next == null) return null;
-        ListNode temp = head;
-        while(temp != slow){
-            temp = temp.next;
+        fast = head;
+        while(fast != slow){
+            fast = fast.next;
             slow = slow.next;
         }
-        return temp;
+        return fast;
     }
 }
