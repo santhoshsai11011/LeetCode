@@ -133,6 +133,7 @@
 | [0198-house-robber](https://github.com/santhoshsai11011/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/santhoshsai11011/LeetCode/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/santhoshsai11011/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/santhoshsai11011/LeetCode/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/santhoshsai11011/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Simulation
@@ -156,6 +157,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santhoshsai11011/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/santhoshsai11011/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/santhoshsai11011/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/santhoshsai11011/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
