@@ -1,13 +1,10 @@
 class Solution {
+    static int f(int n){
+        if(n<=1) return n;
+        return f(n-1)+f(n-2);
+    }
     public int fib(int n) {
-        if(n<=0) return n;
-        int prev2 = 0;
-        int prev = 1;
-        for(int i=2;i<=n;i++){
-            int current = prev + prev2;
-            prev2 = prev;
-            prev = current;
-        }
-        return prev;
+        int ans = f(n);
+        return ans;
     }
 }
