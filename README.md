@@ -136,6 +136,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/santhoshsai11011/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/santhoshsai11011/LeetCode/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/santhoshsai11011/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/santhoshsai11011/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Simulation
 |  |
 | ------- |
