@@ -27,6 +27,7 @@
 | [1284-four-divisors](https://github.com/santhoshsai11011/LeetCode/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/santhoshsai11011/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/santhoshsai11011/LeetCode/tree/master/1390-four-divisors) |
+| [1975-maximum-matrix-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/santhoshsai11011/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/santhoshsai11011/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -207,6 +208,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/0064-minimum-path-sum) |
+| [1975-maximum-matrix-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/1975-maximum-matrix-sum) |
 ## Stack
 |  |
 | ------- |
@@ -266,4 +268,8 @@
 | [0206-reverse-linked-list](https://github.com/santhoshsai11011/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/santhoshsai11011/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/santhoshsai11011/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
