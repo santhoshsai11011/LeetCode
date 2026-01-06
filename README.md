@@ -18,6 +18,7 @@
 | [0198-house-robber](https://github.com/santhoshsai11011/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/santhoshsai11011/LeetCode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/santhoshsai11011/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/santhoshsai11011/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/santhoshsai11011/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/santhoshsai11011/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -198,6 +199,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/santhoshsai11011/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0966-binary-subarrays-with-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/santhoshsai11011/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/santhoshsai11011/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
