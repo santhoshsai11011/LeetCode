@@ -55,6 +55,7 @@
 | [0189-rotate-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/santhoshsai11011/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/santhoshsai11011/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/santhoshsai11011/LeetCode/tree/master/1013-fibonacci-number) |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/santhoshsai11011/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/santhoshsai11011/LeetCode/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/santhoshsai11011/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
@@ -172,6 +174,7 @@
 | [0072-edit-distance](https://github.com/santhoshsai11011/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/santhoshsai11011/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/santhoshsai11011/LeetCode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/santhoshsai11011/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/santhoshsai11011/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/santhoshsai11011/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/santhoshsai11011/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
