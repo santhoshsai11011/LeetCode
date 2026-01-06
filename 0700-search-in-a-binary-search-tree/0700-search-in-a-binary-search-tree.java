@@ -14,20 +14,12 @@
  * }
  */
 class Solution {
+    static TreeNode f(TreeNode node,int val){
+        if(node == null || node.val == val) return node;
+        if(node.val > val) return f(node.left,val);
+        else return f(node.right,val);
+    }
     public TreeNode searchBST(TreeNode root, int val) {
-        if(root == null) return null;
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
-        while(q.size() != 0){
-            int num = q.size();
-            for(int i=0;i<num;i++){
-                TreeNode node = q.peek();
-                q.remove();
-                if(node.val == val) return node;
-                if(node.left != null) q.add(node.left);
-                if(node.right != null) q.add(node.right);
-            }
-        }
-        return null;
+        return f(root,val);
     }
 }
