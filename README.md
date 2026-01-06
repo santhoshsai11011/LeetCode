@@ -237,6 +237,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/santhoshsai11011/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/santhoshsai11011/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -250,6 +251,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/santhoshsai11011/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/santhoshsai11011/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/santhoshsai11011/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -266,6 +268,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/santhoshsai11011/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/santhoshsai11011/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -292,4 +295,5 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/santhoshsai11011/LeetCode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
