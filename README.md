@@ -56,6 +56,7 @@
 | [0258-add-digits](https://github.com/santhoshsai11011/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/santhoshsai11011/LeetCode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/santhoshsai11011/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/santhoshsai11011/LeetCode/tree/master/1013-fibonacci-number) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/santhoshsai11011/LeetCode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/santhoshsai11011/LeetCode/tree/master/0704-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/santhoshsai11011/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
