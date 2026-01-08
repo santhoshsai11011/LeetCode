@@ -30,6 +30,7 @@
 | [1284-four-divisors](https://github.com/santhoshsai11011/LeetCode/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/santhoshsai11011/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/santhoshsai11011/LeetCode/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/santhoshsai11011/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/santhoshsai11011/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/santhoshsai11011/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -156,6 +157,7 @@
 | [1143-longest-common-subsequence](https://github.com/santhoshsai11011/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/santhoshsai11011/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/santhoshsai11011/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/santhoshsai11011/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Simulation
 |  |
 | ------- |
