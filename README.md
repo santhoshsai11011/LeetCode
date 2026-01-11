@@ -10,6 +10,7 @@
 | [0064-minimum-path-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/santhoshsai11011/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/santhoshsai11011/LeetCode/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/santhoshsai11011/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/santhoshsai11011/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santhoshsai11011/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0136-single-number) |
@@ -146,6 +147,7 @@
 | [0064-minimum-path-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/santhoshsai11011/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/santhoshsai11011/LeetCode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/santhoshsai11011/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/santhoshsai11011/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/santhoshsai11011/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santhoshsai11011/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -234,10 +236,12 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/santhoshsai11011/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1975-maximum-matrix-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/1975-maximum-matrix-sum) |
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/santhoshsai11011/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/santhoshsai11011/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/santhoshsai11011/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/santhoshsai11011/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -319,4 +323,8 @@
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/santhoshsai11011/LeetCode/tree/master/0938-range-sum-of-bst) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/santhoshsai11011/LeetCode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
