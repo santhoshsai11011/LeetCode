@@ -37,6 +37,7 @@
 | [1975-maximum-matrix-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/santhoshsai11011/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/santhoshsai11011/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/santhoshsai11011/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3453-separate-squares-i](https://github.com/santhoshsai11011/LeetCode/tree/master/3453-separate-squares-i) |
 ## Two Pointers
 |  |
@@ -91,6 +92,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/santhoshsai11011/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/santhoshsai11011/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/santhoshsai11011/LeetCode/tree/master/2083-three-divisors) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/santhoshsai11011/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## String
 |  |
 | ------- |
