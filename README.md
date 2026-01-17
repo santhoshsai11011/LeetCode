@@ -38,6 +38,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/santhoshsai11011/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/santhoshsai11011/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/santhoshsai11011/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/santhoshsai11011/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3453-separate-squares-i](https://github.com/santhoshsai11011/LeetCode/tree/master/3453-separate-squares-i) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/santhoshsai11011/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/santhoshsai11011/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/2630-alternating-digit-sum) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/santhoshsai11011/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3371-harshad-number](https://github.com/santhoshsai11011/LeetCode/tree/master/3371-harshad-number) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/santhoshsai11011/LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Hash Table
@@ -340,4 +342,5 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/santhoshsai11011/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/santhoshsai11011/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
