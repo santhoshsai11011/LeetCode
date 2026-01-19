@@ -131,6 +131,7 @@
 | [0584-find-customer-referee](https://github.com/santhoshsai11011/LeetCode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/santhoshsai11011/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/santhoshsai11011/LeetCode/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/santhoshsai11011/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/santhoshsai11011/LeetCode/tree/master/0610-triangle-judgement) |
 | [0627-swap-salary](https://github.com/santhoshsai11011/LeetCode/tree/master/0627-swap-salary) |
 | [1174-sales-analysis-iii](https://github.com/santhoshsai11011/LeetCode/tree/master/1174-sales-analysis-iii) |
