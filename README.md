@@ -42,6 +42,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/santhoshsai11011/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/santhoshsai11011/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/santhoshsai11011/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/santhoshsai11011/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/santhoshsai11011/LeetCode/tree/master/3453-separate-squares-i) |
 ## Two Pointers
 |  |
@@ -113,6 +114,7 @@
 | ------- |
 | [0136-single-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0268-missing-number) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/santhoshsai11011/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Sorting
 |  |
 | ------- |
