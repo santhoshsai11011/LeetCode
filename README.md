@@ -44,6 +44,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/santhoshsai11011/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/santhoshsai11011/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/santhoshsai11011/LeetCode/tree/master/3453-separate-squares-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/santhoshsai11011/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/santhoshsai11011/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/santhoshsai11011/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/santhoshsai11011/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 | [0258-add-digits](https://github.com/santhoshsai11011/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/santhoshsai11011/LeetCode/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/santhoshsai11011/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/santhoshsai11011/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -343,6 +346,7 @@
 | [0206-reverse-linked-list](https://github.com/santhoshsai11011/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/santhoshsai11011/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/santhoshsai11011/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/santhoshsai11011/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -362,4 +366,16 @@
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/santhoshsai11011/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/santhoshsai11011/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/santhoshsai11011/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/santhoshsai11011/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/santhoshsai11011/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
