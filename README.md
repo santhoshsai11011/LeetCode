@@ -38,6 +38,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/santhoshsai11011/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1895-largest-magic-square](https://github.com/santhoshsai11011/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/santhoshsai11011/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/santhoshsai11011/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/santhoshsai11011/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/santhoshsai11011/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -124,6 +125,7 @@
 | [0169-majority-element](https://github.com/santhoshsai11011/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/santhoshsai11011/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0268-missing-number) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/santhoshsai11011/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Database
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/santhoshsai11011/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/santhoshsai11011/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/santhoshsai11011/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Prefix Sum
 |  |
 | ------- |
