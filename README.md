@@ -30,6 +30,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1035-uncrossed-lines](https://github.com/santhoshsai11011/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1046-max-consecutive-ones-iii](https://github.com/santhoshsai11011/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1200-minimum-absolute-difference](https://github.com/santhoshsai11011/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/santhoshsai11011/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1284-four-divisors](https://github.com/santhoshsai11011/LeetCode/tree/master/1284-four-divisors) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/santhoshsai11011/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -125,6 +126,7 @@
 | [0169-majority-element](https://github.com/santhoshsai11011/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/santhoshsai11011/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0268-missing-number) |
+| [1200-minimum-absolute-difference](https://github.com/santhoshsai11011/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/santhoshsai11011/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Database
 |  |
