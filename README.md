@@ -149,6 +149,7 @@
 | [0619-biggest-single-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/santhoshsai11011/LeetCode/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/santhoshsai11011/LeetCode/tree/master/0627-swap-salary) |
+| [0627-swap-sex-of-employees](https://github.com/santhoshsai11011/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1174-sales-analysis-iii](https://github.com/santhoshsai11011/LeetCode/tree/master/1174-sales-analysis-iii) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/santhoshsai11011/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1390-average-selling-price](https://github.com/santhoshsai11011/LeetCode/tree/master/1390-average-selling-price) |
