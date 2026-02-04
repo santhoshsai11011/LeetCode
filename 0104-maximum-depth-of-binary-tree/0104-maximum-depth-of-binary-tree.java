@@ -14,14 +14,21 @@
  * }
  */
 class Solution {
-    static int h(TreeNode node){
-        if(node == null) return 0;
-        int left = h(node.left);
-        int right = h(node.right);
-        return 1+Math.max(left,right);
-    }
     public int maxDepth(TreeNode root) {
-        int ans = h(root);
-        return ans;
+        if(root == null) return 0;
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(root);
+        int h = 0;
+        while(q.size() != 0){
+            int length = q.size();
+            for(int i=0;i<length;i++){
+                TreeNode node = q.peek();
+                q.remove();
+                if(node.left != null) q.add(node.left);
+                if(node.right != null) q.add(node.right);
+            }
+            h++;
+        }
+        return h;
     }
 }
