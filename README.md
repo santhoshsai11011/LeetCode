@@ -155,6 +155,7 @@
 | [0627-swap-salary](https://github.com/santhoshsai11011/LeetCode/tree/master/0627-swap-salary) |
 | [0627-swap-sex-of-employees](https://github.com/santhoshsai11011/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/santhoshsai11011/LeetCode/tree/master/1068-product-sales-analysis-i) |
+| [1084-sales-analysis-iii](https://github.com/santhoshsai11011/LeetCode/tree/master/1084-sales-analysis-iii) |
 | [1174-sales-analysis-iii](https://github.com/santhoshsai11011/LeetCode/tree/master/1174-sales-analysis-iii) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/santhoshsai11011/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1390-average-selling-price](https://github.com/santhoshsai11011/LeetCode/tree/master/1390-average-selling-price) |
