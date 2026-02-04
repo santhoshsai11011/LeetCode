@@ -7,35 +7,34 @@ class Solution {
         merge(arr,low,mid,high);
     }
     static void merge(int [] arr,int low,int mid,int high){
-        int i = low;
-        int j = mid+1;
+        int [] temp = new int[high-low+1];
+        int left = low;
+        int right = mid+1;
         int k = 0;
-        int [] x = new int[high-low+1];
-        while(i<=mid && j<=high){
-            if(arr[i] <= arr[j]){
-                x[k] = arr[i];
-                i++;
+        while(left<=mid && right<=high){
+            if(arr[left] <= arr[right]){
+                temp[k] = arr[left];
+                left++;
                 k++;
             }
             else{
-                x[k] = arr[j];
-                j++;
+                temp[k] = arr[right];
+                right++;
                 k++;
             }
         }
-        while(i<=mid){
-            x[k] = arr[i];
-            i++;
+        while(left <= mid){
+            temp[k] = arr[left];
+            left++;
             k++;
         }
-        while(j<=high){
-            x[k] = arr[j];
-            j++;
+        while(right <= high){
+            temp[k] = arr[right];
+            right++;
             k++;
         }
-
-        for(int p=low;p<=high;p++){
-            arr[p] = x[p-low];
+        for(int i=low;i<=high;i++){
+            arr[i] = temp[i-low];
         }
     }
     public int[] sortArray(int[] nums) {
