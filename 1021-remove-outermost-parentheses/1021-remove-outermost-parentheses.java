@@ -6,14 +6,9 @@ class Solution {
         int n = s.length();
         for(int i=0;i<n;i++){
             char ch = s.charAt(i);
-            if(ch == ')'){
-                st.pop();
-                if(st.size() >0) ans += ')' +"";
-            }
-            else{
-                if(st.size() >0) ans += '('+"";
-                st.push(ch);
-            }
+            if(ch == ')') st.pop();
+            if(st.size() >0) ans += ch+"";
+            if(ch == '(') st.push(ch);
         }
         return ans;
     }
