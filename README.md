@@ -256,6 +256,7 @@
 | [0521-longest-uncommon-subsequence-i](https://github.com/santhoshsai11011/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/santhoshsai11011/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/santhoshsai11011/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1021-remove-outermost-parentheses](https://github.com/santhoshsai11011/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/santhoshsai11011/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/santhoshsai11011/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/santhoshsai11011/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -312,6 +313,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/santhoshsai11011/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/santhoshsai11011/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/santhoshsai11011/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/santhoshsai11011/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
