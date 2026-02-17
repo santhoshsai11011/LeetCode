@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/santhoshsai11011/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -249,6 +250,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santhoshsai11011/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/santhoshsai11011/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/santhoshsai11011/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/santhoshsai11011/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/santhoshsai11011/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -436,4 +438,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0912-sort-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/santhoshsai11011/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
