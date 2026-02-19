@@ -265,6 +265,7 @@
 | [0521-longest-uncommon-subsequence-i](https://github.com/santhoshsai11011/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/santhoshsai11011/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/santhoshsai11011/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0796-rotate-string](https://github.com/santhoshsai11011/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/santhoshsai11011/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/santhoshsai11011/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/santhoshsai11011/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -458,4 +459,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/santhoshsai11011/LeetCode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/santhoshsai11011/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
