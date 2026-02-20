@@ -111,6 +111,7 @@
 | [0169-majority-element](https://github.com/santhoshsai11011/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/santhoshsai11011/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/santhoshsai11011/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/santhoshsai11011/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/santhoshsai11011/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -148,6 +149,7 @@
 | [0075-sort-colors](https://github.com/santhoshsai11011/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/santhoshsai11011/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/santhoshsai11011/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/santhoshsai11011/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -258,6 +260,7 @@
 | [0115-distinct-subsequences](https://github.com/santhoshsai11011/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/santhoshsai11011/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/santhoshsai11011/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/santhoshsai11011/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/santhoshsai11011/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/santhoshsai11011/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/santhoshsai11011/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
