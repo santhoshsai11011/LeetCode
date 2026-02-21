@@ -33,11 +33,12 @@ class Solution {
             int last = first;
             for(int i=0;i<size;i++){
                 Pair pair = q.peek();
+                int currentIndex = pair.index-first;
                 q.poll();
                 TreeNode node = pair.node;
                 last = pair.index;
-                if(node.left != null) q.offer(new Pair(node.left,last*2+1));
-                if(node.right != null) q.offer(new Pair(node.right,last*2+2));
+                if(node.left != null) q.offer(new Pair(node.left,currentIndex*2+1));
+                if(node.right != null) q.offer(new Pair(node.right,currentIndex*2+2));
             }
             maxWidth = Math.max(maxWidth,last-first+1);
         }
