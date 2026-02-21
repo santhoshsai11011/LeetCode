@@ -37,6 +37,7 @@
 | [0912-sort-an-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/santhoshsai11011/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1035-uncrossed-lines](https://github.com/santhoshsai11011/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1046-max-consecutive-ones-iii](https://github.com/santhoshsai11011/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/santhoshsai11011/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -133,6 +134,7 @@
 | [0441-arranging-coins](https://github.com/santhoshsai11011/LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/santhoshsai11011/LeetCode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/santhoshsai11011/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/santhoshsai11011/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/santhoshsai11011/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3453-separate-squares-i](https://github.com/santhoshsai11011/LeetCode/tree/master/3453-separate-squares-i) |
@@ -280,6 +282,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/santhoshsai11011/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/santhoshsai11011/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/santhoshsai11011/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/santhoshsai11011/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/santhoshsai11011/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/santhoshsai11011/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -288,6 +291,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/santhoshsai11011/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0966-binary-subarrays-with-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/santhoshsai11011/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/santhoshsai11011/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/santhoshsai11011/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/santhoshsai11011/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
