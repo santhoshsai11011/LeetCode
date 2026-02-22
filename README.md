@@ -34,6 +34,7 @@
 | [0485-max-consecutive-ones](https://github.com/santhoshsai11011/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/santhoshsai11011/LeetCode/tree/master/0704-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/santhoshsai11011/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -115,6 +116,7 @@
 | [0242-valid-anagram](https://github.com/santhoshsai11011/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/santhoshsai11011/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/santhoshsai11011/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -281,6 +283,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santhoshsai11011/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/santhoshsai11011/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/santhoshsai11011/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/santhoshsai11011/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/santhoshsai11011/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
