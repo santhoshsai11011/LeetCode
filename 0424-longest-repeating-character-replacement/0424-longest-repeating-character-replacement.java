@@ -12,7 +12,7 @@ class Solution {
             else mp.put(ch,1);
             maxFreq = Math.max(maxFreq,mp.get(ch));
             if((r-l+1)-maxFreq <= k){
-                maxLen = Math.max(maxFreq,r-l+1);
+                maxLen = Math.max(maxLen,r-l+1);
             }
             else{
                 char ch2 = s.charAt(l);
