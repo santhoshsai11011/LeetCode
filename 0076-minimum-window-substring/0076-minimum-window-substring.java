@@ -11,14 +11,14 @@ class Solution {
         }
         int l = 0;
         int r = 0;
-        int count = m;
+        int count = 0;
         while(r<n){
             char ch = s.charAt(r);
             if(mp.containsKey(ch)){
-                if(mp.get(ch) >0) count--;
+                if(mp.get(ch) >0) count++;
                 mp.put(ch,mp.get(ch)-1);
             }
-            while(count == 0){
+            while(count == m){
                 if((r-l+1) < minLen){
                     minLen = r-l+1;
                     startIndex = l;
@@ -26,7 +26,7 @@ class Solution {
                 char ch2 = s.charAt(l);
                 if(mp.containsKey(ch2)){
                     mp.put(ch2,mp.get(ch2)+1);
-                    if(mp.get(ch2) >0) count++;
+                    if(mp.get(ch2) >0) count--;
                 }
                 l++;
             }
