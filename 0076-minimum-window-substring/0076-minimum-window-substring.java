@@ -3,25 +3,25 @@ class Solution {
         Map<Character,Integer> mp = new HashMap<>();
         int n = s.length();
         int m = t.length();
-        int minLen = Integer.MAX_VALUE;
-        int startIndex = -1;
         for(int i=0;i<m;i++){
             char ch = t.charAt(i);
             mp.put(ch,mp.getOrDefault(ch,0)+1);
         }
-        int l = 0;
+        int l =0;
         int r = 0;
         int count = 0;
+        int minLength = Integer.MAX_VALUE;
+        int sIndex = -1;
         while(r<n){
             char ch = s.charAt(r);
             if(mp.containsKey(ch)){
-                if(mp.get(ch) >0) count++;
+                if(mp.get(ch)>0) count++;
                 mp.put(ch,mp.get(ch)-1);
             }
             while(count == m){
-                if((r-l+1) < minLen){
-                    minLen = r-l+1;
-                    startIndex = l;
+                if((r-l+1) < minLength){
+                    minLength = (r-l+1);
+                    sIndex = l;
                 }
                 char ch2 = s.charAt(l);
                 if(mp.containsKey(ch2)){
@@ -32,7 +32,7 @@ class Solution {
             }
             r++;
         }
-        if(startIndex == -1) return "";
-        return s.substring(startIndex,startIndex+minLen);
+        if(sIndex == -1) return "";
+        return s.substring(sIndex,sIndex+minLength);
     }
 }
