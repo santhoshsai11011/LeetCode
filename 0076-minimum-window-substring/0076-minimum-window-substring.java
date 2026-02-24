@@ -5,13 +5,14 @@ class Solution {
         int m = t.length();
         for(int i=0;i<m;i++){
             char ch = t.charAt(i);
-            mp.put(ch,mp.getOrDefault(ch,0)+1);
+            if(mp.containsKey(ch)) mp.put(ch,mp.get(ch)+1);
+            else mp.put(ch,1);
         }
-        int l =0;
-        int r = 0;
         int count = 0;
         int minLength = Integer.MAX_VALUE;
-        int sIndex = -1;
+        int l = 0;
+        int r = 0;
+        int sIdx = -1;
         while(r<n){
             char ch = s.charAt(r);
             if(mp.containsKey(ch)){
@@ -20,8 +21,8 @@ class Solution {
             }
             while(count == m){
                 if((r-l+1) < minLength){
-                    minLength = (r-l+1);
-                    sIndex = l;
+                    minLength = r-l+1;
+                    sIdx = l;
                 }
                 char ch2 = s.charAt(l);
                 if(mp.containsKey(ch2)){
@@ -32,7 +33,7 @@ class Solution {
             }
             r++;
         }
-        if(sIndex == -1) return "";
-        return s.substring(sIndex,sIndex+minLength);
+        if(sIdx == -1) return "";
+        return s.substring(sIdx,sIdx+minLength);
     }
 }
