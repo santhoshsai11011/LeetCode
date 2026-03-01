@@ -272,6 +272,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santhoshsai11011/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/santhoshsai11011/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/santhoshsai11011/LeetCode/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/santhoshsai11011/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/santhoshsai11011/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/santhoshsai11011/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -352,6 +353,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/santhoshsai11011/LeetCode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/santhoshsai11011/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/santhoshsai11011/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/santhoshsai11011/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
