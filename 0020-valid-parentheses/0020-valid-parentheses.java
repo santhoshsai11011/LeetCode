@@ -7,13 +7,14 @@ class Solution {
             if(ch == '{' || ch == '[' || ch == '(') st.push(ch);
             else{
                 if(st.isEmpty()) return false;
-                if(ch == '}' && st.peek() != '{') return false;
-                if(ch == ')' && st.peek() != '(') return false;
-                if(ch == ']' && st.peek() != '[') return false;
+                char x = st.peek();
+                if(ch == ']'  && x != '[') return false;
+                if(ch == '}'  && x != '{') return false;
+                if(ch == ')'  && x != '(') return false;
                 st.pop();
             }
         }
-        if(st.size() > 0) return false;
+        if(st.size() != 0) return false;
         return true;
     }
 }
