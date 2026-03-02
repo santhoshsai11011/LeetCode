@@ -6,11 +6,11 @@ class Solution {
         int r = 0;
         int maxLen = 0;
         int n = s.length();
-        while(r<n){
+        for(int i=0;i<n;i++){
             char ch = s.charAt(r);
-            if(arr[ch] >= l) l = arr[ch]+1;
+            if(arr[ch] >=l) l = arr[ch]+1;
+            maxLen = Math.max(r-l+1,maxLen);
             arr[ch] = r;
-            maxLen = Math.max(maxLen,r-l+1);
             r++;
         }
         return maxLen;
