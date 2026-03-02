@@ -358,6 +358,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/santhoshsai11011/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/santhoshsai11011/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/santhoshsai11011/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/santhoshsai11011/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/santhoshsai11011/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/santhoshsai11011/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
@@ -505,4 +506,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/santhoshsai11011/LeetCode/tree/master/0796-rotate-string) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/santhoshsai11011/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
