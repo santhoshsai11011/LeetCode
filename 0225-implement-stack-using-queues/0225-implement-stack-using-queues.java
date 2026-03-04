@@ -3,6 +3,7 @@ class MyStack {
     public MyStack() {
         
     }
+    
     public void push(int x) {
         int size = q.size();
         q.add(x);
@@ -12,10 +13,12 @@ class MyStack {
     }
     
     public int pop() {
+        if(q.size() == 0) return -1;
         return q.remove();
     }
     
     public int top() {
+        if(q.size() == 0) return -1;
         return q.peek();
     }
     
