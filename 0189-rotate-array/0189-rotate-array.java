@@ -1,9 +1,9 @@
 class Solution {
-    static void reverse(int [] nums,int i,int j){
+    void reverse(int [] arr,int i,int j){
         while(i<=j){
-            int temp = nums[i];
-            nums[i] = nums[j];
-            nums[j] = temp;
+            int temp = arr[i];
+            arr[i] = arr[j];
+            arr[j] = temp;
             i++;
             j--;
         }
