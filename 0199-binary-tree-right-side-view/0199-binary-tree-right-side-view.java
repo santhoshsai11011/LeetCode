@@ -21,9 +21,8 @@ class Solution {
         if(node.left != null) f(node.left,level+1,arr);
     }
     public List<Integer> rightSideView(TreeNode root) {
-        List<Integer> ans = new ArrayList<>();
-        f(root,0,ans);
-        return ans;
-
+        List<Integer> arr = new ArrayList<>();
+        f(root,0,arr);
+        return arr;
     }
 }
