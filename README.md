@@ -98,6 +98,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/santhoshsai11011/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/santhoshsai11011/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/santhoshsai11011/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/santhoshsai11011/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1284-four-divisors](https://github.com/santhoshsai11011/LeetCode/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/santhoshsai11011/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/santhoshsai11011/LeetCode/tree/master/1390-four-divisors) |
