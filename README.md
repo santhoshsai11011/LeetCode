@@ -296,6 +296,7 @@
 | [1143-longest-common-subsequence](https://github.com/santhoshsai11011/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/santhoshsai11011/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/santhoshsai11011/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/santhoshsai11011/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1903-largest-odd-number-in-string](https://github.com/santhoshsai11011/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
