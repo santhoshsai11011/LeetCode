@@ -125,6 +125,7 @@
 | [0242-valid-anagram](https://github.com/santhoshsai11011/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/santhoshsai11011/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/santhoshsai11011/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -387,6 +388,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/santhoshsai11011/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -407,6 +409,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/santhoshsai11011/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -430,6 +433,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/santhoshsai11011/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -445,6 +449,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/santhoshsai11011/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Linked List
