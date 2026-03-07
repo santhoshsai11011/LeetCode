@@ -39,15 +39,15 @@ class Solution {
             currentLevel++;
             for(int i=0;i<size;i++){
                 TreeNode node = q.remove();
-                if(node.left != null && visited.get(node.left) == null){
+                if(node.left != null && !visited.containsKey(node.left)){
                     q.offer(node.left);
                     visited.put(node.left,true);
                 }
-                if(node.right != null && visited.get(node.right) == null){
+                if(node.right != null && !visited.containsKey(node.right)){
                     q.offer(node.right);
                     visited.put(node.right,true);
                 }
-                if(parents.get(node) != null && visited.get(parents.get(node)) == null){
+                if(parents.get(node) != null && !visited.containsKey(parents.get(node))){
                     q.offer(parents.get(node));
                     visited.put(parents.get(node),true);
                 }
