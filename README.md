@@ -35,6 +35,7 @@
 | [0496-next-greater-element-i](https://github.com/santhoshsai11011/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/santhoshsai11011/LeetCode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/santhoshsai11011/LeetCode/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/santhoshsai11011/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -374,6 +375,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/santhoshsai11011/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/santhoshsai11011/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/santhoshsai11011/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/santhoshsai11011/LeetCode/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/santhoshsai11011/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/santhoshsai11011/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
@@ -486,6 +488,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/santhoshsai11011/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/santhoshsai11011/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/santhoshsai11011/LeetCode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/santhoshsai11011/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Geometry
 |  |
