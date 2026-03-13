@@ -32,6 +32,7 @@
 | [0283-move-zeroes](https://github.com/santhoshsai11011/LeetCode/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/santhoshsai11011/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/santhoshsai11011/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/santhoshsai11011/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/santhoshsai11011/LeetCode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/santhoshsai11011/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -125,6 +126,7 @@
 | [0242-valid-anagram](https://github.com/santhoshsai11011/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/santhoshsai11011/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/santhoshsai11011/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/santhoshsai11011/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/santhoshsai11011/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/santhoshsai11011/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -370,6 +372,7 @@
 | [0225-implement-stack-using-queues](https://github.com/santhoshsai11011/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/santhoshsai11011/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/santhoshsai11011/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/santhoshsai11011/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/santhoshsai11011/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
@@ -480,6 +483,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/santhoshsai11011/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/santhoshsai11011/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Geometry
 |  |
 | ------- |
