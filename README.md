@@ -72,6 +72,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/santhoshsai11011/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/santhoshsai11011/LeetCode/tree/master/3453-separate-squares-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/santhoshsai11011/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/santhoshsai11011/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0392-is-subsequence](https://github.com/santhoshsai11011/LeetCode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/santhoshsai11011/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/santhoshsai11011/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3643-flip-square-submatrix-vertically](https://github.com/santhoshsai11011/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Math
 |  |
 | ------- |
@@ -377,6 +379,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/santhoshsai11011/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/santhoshsai11011/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/santhoshsai11011/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [3643-flip-square-submatrix-vertically](https://github.com/santhoshsai11011/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Stack
 |  |
 | ------- |
