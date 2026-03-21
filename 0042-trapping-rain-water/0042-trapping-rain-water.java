@@ -3,17 +3,17 @@ class Solution {
         int n = height.length;
         int l = 0;
         int r = n-1;
-        int rMax = 0;
-        int lMax = 0;
+        int lMax = Integer.MIN_VALUE;
+        int rMax = Integer.MIN_VALUE;
         int total = 0;
-        while(l<r){
-            if(height[l] <= height[r]){
-                if(lMax >= height[l]) total += lMax-height[l];
+        while(l < r){
+            if(height[l]  < height[r]){
+                if(lMax > height[l]) total += lMax-height[l];
                 else lMax = height[l];
                 l++;
             }
             else{
-                if(rMax >= height[r]) total += rMax-height[r];
+                if(rMax > height[r]) total += rMax - height[r];
                 else rMax = height[r];
                 r--;
             }
