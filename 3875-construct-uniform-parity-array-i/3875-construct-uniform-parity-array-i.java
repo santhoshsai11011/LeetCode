@@ -8,7 +8,7 @@ class Solution {
             if(nums1[i]%2 == 0) even++;
             else odd++;
         }
-        if(even > 0 || odd > 1) return true;
+        if(even >= 1 || odd >= 2) return true;
         return false;
     }
 }
